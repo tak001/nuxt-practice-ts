@@ -35,6 +35,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-nuxt": "^3.1.0",
     "eslint-plugin-vue": "^8.2.0",
+    "express": "^4.17.3",
     "jest": "^27.4.4",
     "nuxt-property-decorator": "^2.9.1",
     "prettier": "^2.5.1",
