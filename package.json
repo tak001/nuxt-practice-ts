@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
+    "change-object-case": "^0.2.1",
     "core-js": "^3.19.3",
     "nuxt": "^2.15.8",
     "proxy": "^1.0.2",
